@@ -8,6 +8,7 @@ Blue
 Indigo
 Purple
 Black
+White
 
 These are the colours of my rainbow.
 
