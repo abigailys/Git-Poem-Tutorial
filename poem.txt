@@ -7,5 +7,7 @@ Green
 Blue
 Indigo
 Purple
+Black
 
 These are the colours of my rainbow.
+
