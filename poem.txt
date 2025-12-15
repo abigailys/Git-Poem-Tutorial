@@ -9,6 +9,7 @@ Indigo
 Purple
 Black
 White
+Grey
 Unicorn
 
 These are the colours of my rainbow.
